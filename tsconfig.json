@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "noImplicitThis": true,
+    "noImplicitAny": true,
+    "strictNullChecks": true,
+    "moduleResolution": "node",
+    "noUnusedLocals": true,
+    "target": "ES6"
+  }
+}
